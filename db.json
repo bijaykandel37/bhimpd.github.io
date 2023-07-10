@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "uservalue": "admin1",
+      "emailvalue": "admin@yopmail.com",
+      "passwordvalue": "Test@1234",
+      "confirmpasswordvalue": "Test@1234",
+      "id": 1
+    },
+    {
+      "uservalue": "carrot",
+      "emailvalue": "carrot@yopmail.com",
+      "passwordvalue": "Test@2345",
+      "confirmpasswordvalue": "Test@2345",
+      "id": 2
+    },
+    {
+      "uservalue": "superadmin",
+      "emailvalue": "superAdmin@yopmail.com",
+      "passwordvalue": "TEST@123123",
+      "confirmpasswordvalue": "TEST@123123",
+      "id": 3
+    },
+    {
+      "uservalue": "aaa",
+      "emailvalue": "aaa@gmail.com",
+      "passwordvalue": "aaa",
+      "confirmpasswordvalue": "aaa",
+      "id": 4
+    }
+  ]
+}

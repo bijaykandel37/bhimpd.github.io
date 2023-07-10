@@ -1,0 +1,109 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.info{
+    background-color: rgb(3, 59, 55);
+    padding:10px;
+
+}
+
+.info span{
+    color:white;
+    padding-left:10px;
+}
+
+
+.mainnav{
+    background-color: black;
+}
+.navbar .nav-link {
+    color: white !important;
+  }
+  .navbar .nav-link:hover{
+    color: rgb(116, 199, 193)  !important;
+   
+  }
+.navbrand{
+    color:white;
+}  
+
+
+/* background images with the text on it... */
+
+
+.showcase {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    color: white;
+    text-align: center;
+  }
+  
+  .showcase img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:99
+  }
+  
+  .showcase .overlay {
+    width: 100%;
+    height: 500px;
+    background-color: rgba(0, 35, 82, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:999
+  }
+  
+  .showcase h2 {
+    margin-top: 170px;
+    font-size: 3em;
+  }
+  
+  .showcase p {
+    margin-top: 8px;
+    font-size: 1.2em;
+  }
+.Twenty{
+    color:rgb(8, 156, 8);
+}  
+.offer{
+    color:yellow;
+}
+
+.formbox{
+  border:2px solid black;
+}
+
+/* ended background images with the text on it... */
+
+.registerstyle{
+  border:2px solid black;
+  
+  justify-content: center;
+  text-align:center;
+  align-items:center;
+
+}
+.regrow{
+  display:flex;
+  justify-content: center;
+  text-align:center;
+  align-items:center; 
+}
+
+.pd{
+  text-align:center;
+  margin:20px;
+}
+
+.pddetail{
+  text-align:center;
+  align-items:center;
+  margin:20px;
+}
